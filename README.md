@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="React Native" src="https://raw.githubusercontent.com/theandersonn/casacriativa/master/src/assets/images/print-home.gif">
+  <img alt="React Native" src="https://raw.githubusercontent.com/theandersonn/desafio-conceitos-react-native/master/src/assets/images/print-home.gif">
 </p>
 
 ## :rocket: Sobre o desafio
