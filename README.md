@@ -10,6 +10,7 @@
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calling-funcionalidades-da-aplicação">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#thumbsup-específicação-dos-testes">Testes</a>
+  <a href="#construction_worker-comandos">Comandos</a>
 </p>
 
 <p align="center">
@@ -37,5 +38,19 @@ Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir par
 Para esse desafio temos os seguintes testes:
 
 - **`should add a like to the like counter of the repository`**: Para que esse teste passe, sua aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
+
+## :construction_worker: Comandos
+
+**Comandos**
+```sh
+# Para baixar as dependências 
+yarn 
+
+# Para rodar localmente a aplicação
+yarn dev 
+
+# Para rodar os testes
+yarn test
+```
 
 Feito com 💜 by theandersonn :wave: [Entre em contato](https://www.linkedin.com/in/theandersonn/)
