@@ -64,8 +64,8 @@ export default function App() {
                   // Remember to replace "1" below with repository ID: {`repository-likes-${repository.id}`}
                   testID={`repository-likes-${repository.id}`}
                 >
-                {repository.likes} curtida{repository.likes > 1 ? 's' : ''}
-            </Text>
+                  {repository.likes} curtida{repository.likes > 1 ? 's' : ''}
+                </Text>
               </View>
 
               <TouchableOpacity
@@ -79,7 +79,6 @@ export default function App() {
             </View>
           )}
         />
-
       </SafeAreaView>
     </>
   );
