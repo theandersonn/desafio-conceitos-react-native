@@ -53,4 +53,4 @@ yarn dev
 yarn test
 ```
 
-Feito com 💜 by theandersonn :wave: [Entre em contato](https://www.linkedin.com/in/theandersonn/)
+Feito com 💜 by theandersonn :wave: [Entre em contato](http://theandersonn.com/)
